@@ -7,7 +7,7 @@ local_settings.py
 !*/migrations/__init__.py
 
 __pycache__/
-*.py[cod]
+*.py[co
 *$py.class
 
 # pycharm
